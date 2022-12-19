@@ -8,5 +8,4 @@
 
 [GITHUB c.docx](https://github.com/benoit-lgrk-cv/API-Bio/files/10258400/GITHUB.c.docx)
 
-
-
+[Comment récupérer un Fichier dans GITHUB10.docx](https://github.com/benoit-lgrk-cv/API-Bio/files/10259390/Comment.recuperer.un.Fichier.dans.GITHUB10.docx)
